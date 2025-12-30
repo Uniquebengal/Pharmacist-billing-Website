@@ -1,0 +1,7 @@
+{
+  "name": "TrustMeds",
+  "description": "A professional medical shop management system featuring real-time inventory tracking, expiry date alerts, customer billing, and an AI-powered pharmaceutical assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
